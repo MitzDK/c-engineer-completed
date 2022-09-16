@@ -1,4 +1,4 @@
-package com.github.m0bilebtw;
+package net.runelite.client.plugins.pathofrunescape;
 
 import lombok.extern.slf4j.Slf4j;
 
