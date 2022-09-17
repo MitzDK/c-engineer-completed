@@ -41,7 +41,7 @@ import java.util.regex.Pattern;
 	tags = {"c engineer", "stats", "levels", "quests", "diary", "announce"}
 )
 
-public class CEngineerCompletedPlugin extends Plugin
+public class DropSoundsCompletedPlugin extends Plugin
 {
 	@Inject
 	private Client client;
@@ -53,7 +53,7 @@ public class CEngineerCompletedPlugin extends Plugin
 	@Inject
 	private SoundEngine soundEngine;
 	@Inject
-	private CEngineerCompletedConfig config;
+	private DropSoundsConfig config;
 	@Inject
 	private ScheduledExecutorService executor;
 	@Inject
