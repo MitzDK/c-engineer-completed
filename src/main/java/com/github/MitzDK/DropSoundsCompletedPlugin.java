@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.dropsounds;
+package com.github.MitzDK;
 
 import com.google.inject.Provides;
 import java.util.HashMap;
@@ -121,9 +121,9 @@ public class DropSoundsCompletedPlugin extends Plugin
 
 
 	@Provides
-	CEngineerCompletedConfig provideConfig(ConfigManager configManager)
+	DropSoundsConfig provideConfig(ConfigManager configManager)
 	{
-		return configManager.getConfig(CEngineerCompletedConfig.class);
+		return configManager.getConfig(DropSoundsConfig.class);
 	}
 
 // Disabled - fires continuously while spinner arrow is held - when this is avoidable, can enable

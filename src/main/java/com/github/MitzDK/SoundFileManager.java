@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.dropsounds;
+package com.github.MitzDK;
 
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.client.RuneLite;

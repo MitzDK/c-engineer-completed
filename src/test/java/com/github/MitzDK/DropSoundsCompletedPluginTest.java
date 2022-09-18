@@ -1,4 +1,4 @@
-package com.github.mitzdk.dropsounds;
+package com.github.MitzDK;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

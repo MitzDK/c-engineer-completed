@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.dropsounds;
+package com.github.MitzDK;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -14,7 +14,7 @@ import java.io.InputStream;
 public class SoundEngine {
 
     @Inject
-    private CEngineerCompletedConfig config;
+    private DropSoundsConfig config;
 
     private static final long CLIP_MTIME_UNLOADED = -2;
 

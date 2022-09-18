@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.dropsounds;
+package com.github.MitzDK;
 
 public enum Sound {
     ITEM_DROP_1("goodsound.wav");
