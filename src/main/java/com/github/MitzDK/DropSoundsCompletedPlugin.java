@@ -36,9 +36,9 @@ import java.util.regex.Pattern;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Path of Runescape",
+	name = "Drop Sounds",
 	description = "Plays sounds when loot drops",
-	tags = {"c engineer", "stats", "levels", "quests", "diary", "announce"}
+	tags = {"announce", "sound"}
 )
 
 public class DropSoundsCompletedPlugin extends Plugin
