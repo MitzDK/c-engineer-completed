@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.pathofrunescape;
+package net.runelite.client.plugins.dropsounds;
 
 import lombok.extern.slf4j.Slf4j;
 

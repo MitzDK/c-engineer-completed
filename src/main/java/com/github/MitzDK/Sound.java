@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.pathofrunescape;
+package net.runelite.client.plugins.dropsounds;
 
 public enum Sound {
     ITEM_DROP_1("goodsound.wav");
