@@ -23,7 +23,7 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 }
 
-group = 'com.github.m0bilebtw'
+group = 'com.github.MitzDK'
 version = '1.0.1'
 sourceCompatibility = '1.8'
 
